@@ -1,0 +1,39 @@
+FIRST DOWNLOAD THIS FILES: https://github.com/jacquesTech/LIBIMOBILE-DEVICE
+ 
+AFTER THAT PWNDFU YOUR DEVICE TO ALLOW  UNSIGNED IMAGES 
+
+THEN EXTRACT THESE FILES IN LIBIMOBILES RESSOURCES 
+
+ HOW TO BOOT PURPLE AND CHANGE SERIAL
+FIRST EXECUTE 
+irecovery.exe  -f  ./iBoot.img4  
+timeout /t 5
+THEN SEND IBOOT  FILE AGAIN 
+irecovery.exe  -f  ./iBoot.img4  
+THEN
+irecovery.exe  -f  ./diag.img4
+timeout /t 5  
+irecovery.exe  -c  setenv  boot-args  usbserial=enabled  
+timeout /t 5
+irecovery.exe  -c  saveenv  
+timeout /t 5
+irecovery.exe -c  go 
+
+YOUR DEVICE WILL GO IN A COLOR MODE WHICH WILL ALLOW YOU TO CHANGE OR MODIFY SYSTEMS INFORMATIONS
+
+
+I WILL UPLOAD MORE SOON
+             
+ 
+
+ ALL THESE FILES ARE COMMANDS THAT WILL HELP YOU ENTER PURPLE MODE 
+
+MY WHATSAPP: https://wa.me/22891198506/
+MY TELEGRAM  : https://t.me/gsmadjaa05    /     https://t.me/gsmadjaasupport
+MY FACEBOOK: https://facebook.com/gsmadjaa
+YOUTUBE : https://youtube.com/@gsmadjaa
+
+
+THANKS CONTACT ME FOR MORE HELP 
+
+
