@@ -1,2 +1,3 @@
 # IOS-DIAG-FILES-OPEN-SOURCES
-HOW TO USE THESE FILES TO  ENTER PURPLE MODE    COMMANDS ARE IN HELP.txt file     thanks  subscribe me : 
+HOW TO USE THESE FILES TO  ENTER PURPLE MODE    COMMANDS ARE IN HELP.txt file     thanks  subscribe me
+ipads added 
